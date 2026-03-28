@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Franco Iorio 👋
 
-<!--
-**francoioriouba-arch/francoioriouba-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un entusiasta del mundo de la computacion y el desarrollo buscando mi primera oportunidad profesional como Junior/Pasante
 
-Here are some ideas to get you started:
+Mi objetivo principal en esta etapa es aprender, absorber la mayor cantidad de experiencia posible trabajando dentro de un equipo ágil, y aportar mi dedicación mientras sigo formándome. Entiendo que al principio hay mucho por descubrir, y ¡tengo toda la motivación para hacerlo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Qué estoy aprendiendo / Mis intereses
+Actualmente estoy construyendo una base sólida en el backend y manejo de datos, mientras me expando hacia el ecosistema web:
+* **Backend & Bases de Datos:** Enfocando mi aprendizaje en **Java** (Programación Orientada a Objetos, arquitectura robusta) y     **SQL** (diseño y consultas de bases de datos relacionales).
+
+### 🌱 Sobre mí
+* 💻 Me considero una persona proactiva. Si no sé cómo resolver algo, lo investigo hasta entenderlo.
+* 🤝 Valoro mucho el trabajo en equipo, las buenas prácticas y no tengo miedo de hacer preguntas para aprender de los que tienen más experiencia.
+* ⚡ En mi tiempo libre suelo probar juegos indies.
+
+### 📫 Cómo contactarme
+* **Email:** francoiorioUBA@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/franco-iorio/
